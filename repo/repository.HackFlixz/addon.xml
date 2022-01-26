@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="HackFlixz" name="HackFlixz" version="1.0" provider-name="HackFlixz">
+<addon id="repository.HackFlixz" name="HackFlixz" version="1.0" provider-name="HackFlixz">
     <extension point="xbmc.addon.repository" name="HackFlixz Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/HackFlixz/HackFlixz/master/repo/zips/addons.xml</info>
